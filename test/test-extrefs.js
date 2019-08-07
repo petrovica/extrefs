@@ -1,7 +1,7 @@
 'use strict';
 
 import Test from 'tape';
-import Extrefs from '../dist/lib';
+import Extrefs from '../dist';
 import Path from 'path';
 import Http from 'http';
 
